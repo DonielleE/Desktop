@@ -1,0 +1,18 @@
+.contact {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Tahoma, sans-serif;
+.body{
+    
+}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #060616;
+}
+.container
+{
+width: 80;
+}
